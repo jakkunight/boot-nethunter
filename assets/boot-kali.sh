@@ -3,7 +3,7 @@ su -c '
 export _=/system/bin/env;
 export TERM=xterm-256color;
 export LOGNAME=root;
-export HOME=/;
+export HOME=/root;
 export PWD=/;
 export SHELL=/system/bin/sh;
 export ASEC_MOUNTPOINT=/mnt/asec;
@@ -24,3 +24,6 @@ export ANDROID_TZDATA_ROOT=/apex/com.android.tzdata;
 export ANDROID_SOCKET_usap_pool_primary=21;
 export ANDROID_SOCKET_zygote=20;
 exec bootkali'
+
+# Author: Aravind Swami [github: name-is-cipher]
+# Mail: aravindswami135@gmail.com
