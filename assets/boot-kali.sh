@@ -26,4 +26,5 @@ export ANDROID_SOCKET_zygote=20;
 exec bootkali'
 
 # Author: Aravind Swami [github: name-is-cipher]
+# Twitter: name_is_cipher
 # Mail: aravindswami135@gmail.com
