@@ -3,7 +3,7 @@ su -c '
 export _=/system/bin/env;
 export TERM=xterm-256color;
 export LOGNAME=root;
-export HOME=/root;
+export HOME=/;
 export PWD=/;
 export SHELL=/system/bin/sh;
 export ASEC_MOUNTPOINT=/mnt/asec;
